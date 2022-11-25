@@ -1,0 +1,176 @@
+2022-11-18 10:39:27,129 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-18 10:39:30,273 : INFO : test_Amazon : click on the search icon
+2022-11-18 10:42:35,458 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-18 10:42:38,781 : INFO : test_Amazon : click on the search icon
+2022-11-18 10:42:49,959 : INFO : test_Amazon : select the rating 4 or above 4 stars
+2022-11-18 10:42:52,438 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-18 10:42:52,688 : INFO : test_Amazon : select window 10 home
+2022-11-18 11:05:09,053 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-18 11:05:12,088 : INFO : test_Amazon : click on the search icon
+2022-11-18 11:05:12,434 : INFO : test_Amazon : select the rating 3 or above 3 stars
+2022-11-18 11:05:16,211 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-18 11:05:16,374 : INFO : test_Amazon : select window 10 home
+2022-11-18 13:13:49,494 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-18 13:13:52,958 : INFO : test_Amazon : click on the search icon
+2022-11-18 14:42:07,657 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-18 14:42:10,809 : INFO : test_Amazon : click on the search icon
+2022-11-18 14:42:11,543 : INFO : test_Amazon : select the rating 4 or above 4 stars
+2022-11-18 14:42:15,935 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-18 14:42:16,062 : INFO : test_Amazon : select window 10 home
+2022-11-18 14:42:26,154 : INFO : test_Amazon : select the anti reflective feature 
+2022-11-20 23:57:04,418 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-20 23:57:07,398 : INFO : test_Amazon : click on the search icon
+2022-11-20 23:57:08,913 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-20 23:57:13,866 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-20 23:57:14,571 : INFO : test_Amazon : select window 10 home
+2022-11-20 23:57:14,739 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-21 13:19:43,842 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-21 13:19:48,043 : INFO : test_Amazon : click on the search icon
+2022-11-21 13:19:49,084 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-21 13:19:54,451 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-21 13:19:54,717 : INFO : test_Amazon : select window 10 home
+2022-11-21 13:19:55,107 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-21 16:17:33,079 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-21 16:17:33,355 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-21 16:17:36,592 : INFO : test_Amazon : click on the search icon
+2022-11-21 16:17:37,319 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-21 16:17:41,796 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-21 16:17:42,242 : INFO : test_Amazon : select window 10 home
+2022-11-21 16:17:42,375 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-21 16:17:42,480 : INFO : test_Amazon : Laptop islenovo
+2022-11-21 16:17:42,480 : INFO : test_Amazon : Laptop islenovo
+2022-11-21 16:17:42,687 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-21 16:17:42,687 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-21 16:17:45,935 : INFO : test_Amazon : click on the search icon
+2022-11-21 16:17:45,935 : INFO : test_Amazon : click on the search icon
+2022-11-21 16:17:48,333 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-21 16:17:48,333 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-21 16:17:48,819 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-21 16:17:48,819 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-21 16:17:48,949 : INFO : test_Amazon : select window 10 home
+2022-11-21 16:17:48,949 : INFO : test_Amazon : select window 10 home
+2022-11-21 16:17:49,018 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-21 16:17:49,018 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-21 16:21:35,089 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-21 16:21:35,263 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-21 16:21:38,048 : INFO : test_Amazon : click on the search icon
+2022-11-21 16:21:38,668 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-21 16:21:42,817 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-21 16:21:43,193 : INFO : test_Amazon : select window 10 home
+2022-11-21 16:21:43,325 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-21 16:21:43,390 : INFO : test_Amazon : Laptop islenovo
+2022-11-21 16:21:43,390 : INFO : test_Amazon : Laptop islenovo
+2022-11-21 16:21:43,499 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-21 16:21:43,499 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-21 16:21:45,982 : INFO : test_Amazon : click on the search icon
+2022-11-21 16:21:45,982 : INFO : test_Amazon : click on the search icon
+2022-11-21 16:21:48,522 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-21 16:21:48,522 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-21 16:21:48,718 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-21 16:21:48,718 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-21 16:21:48,809 : INFO : test_Amazon : select window 10 home
+2022-11-21 16:21:48,809 : INFO : test_Amazon : select window 10 home
+2022-11-21 16:21:48,875 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-21 16:21:48,875 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-22 12:33:23,703 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-22 12:33:24,008 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-22 12:33:27,742 : INFO : test_Amazon : click on the search icon
+2022-11-22 12:33:28,380 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-22 12:33:32,549 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-22 12:33:32,689 : INFO : test_Amazon : select window 10 home
+2022-11-22 12:33:32,854 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-22 12:35:08,607 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-22 12:35:08,804 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-22 12:35:11,822 : INFO : test_Amazon : click on the search icon
+2022-11-22 12:35:12,147 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-22 12:35:15,545 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-22 12:35:15,680 : INFO : test_Amazon : select window 10 home
+2022-11-22 12:35:15,809 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-23 20:12:32,171 : INFO : test_Amazon : A debug statement is executed
+2022-11-23 20:12:32,171 : WARNING : test_Amazon : A debug statement is executed
+2022-11-23 20:12:32,171 : ERROR : test_Amazon : A debug statement is executed
+2022-11-23 20:12:32,171 : CRITICAL : test_Amazon : A debug statement is executed
+2022-11-23 20:12:32,339 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-23 20:12:32,803 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-23 20:12:37,444 : INFO : test_Amazon : click on the search icon
+2022-11-23 20:12:38,204 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-23 20:12:42,901 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-23 20:12:43,590 : INFO : test_Amazon : select window 10 home
+2022-11-23 20:12:43,742 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-23 22:38:08,629 : INFO : test_Amazon : A debug statement is executed
+2022-11-23 22:38:08,630 : WARNING : test_Amazon : A debug statement is executed
+2022-11-23 22:38:08,630 : ERROR : test_Amazon : A debug statement is executed
+2022-11-23 22:38:08,630 : CRITICAL : test_Amazon : A debug statement is executed
+2022-11-23 22:38:08,705 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-23 22:38:08,932 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-23 22:38:11,717 : INFO : test_Amazon : click on the search icon
+2022-11-23 22:38:12,307 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-23 22:38:17,144 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-23 22:38:17,275 : INFO : test_Amazon : select window 10 home
+2022-11-23 22:38:17,426 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-24 11:52:08,682 : INFO : test_Amazon : A debug statement is executed
+2022-11-24 11:52:08,683 : WARNING : test_Amazon : A debug statement is executed
+2022-11-24 11:52:08,683 : ERROR : test_Amazon : A debug statement is executed
+2022-11-24 11:52:08,683 : CRITICAL : test_Amazon : A debug statement is executed
+2022-11-24 11:52:08,797 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-24 11:52:09,211 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-24 11:52:14,599 : INFO : test_Amazon : click on the search icon
+2022-11-24 11:52:15,390 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-24 11:52:21,323 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-24 11:52:21,600 : INFO : test_Amazon : select window 10 home
+2022-11-24 11:52:21,789 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-24 21:04:04,195 : INFO : test_Amazon : A debug statement is executed
+2022-11-24 21:04:04,196 : WARNING : test_Amazon : A debug statement is executed
+2022-11-24 21:04:04,196 : ERROR : test_Amazon : A debug statement is executed
+2022-11-24 21:04:04,197 : CRITICAL : test_Amazon : A debug statement is executed
+2022-11-24 21:04:04,278 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-24 21:04:04,481 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-24 21:04:07,585 : INFO : test_Amazon : click on the search icon
+2022-11-24 21:04:08,191 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-24 21:04:12,827 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-24 21:04:13,018 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-24 21:04:13,133 : INFO : test_Amazon : select window 10 home
+2022-11-25 14:02:18,449 : INFO : test_Amazon : A debug statement is executed
+2022-11-25 14:02:18,450 : WARNING : test_Amazon : A debug statement is executed
+2022-11-25 14:02:18,450 : ERROR : test_Amazon : A debug statement is executed
+2022-11-25 14:02:18,451 : CRITICAL : test_Amazon : A debug statement is executed
+2022-11-25 14:02:18,534 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-25 14:02:18,817 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-25 14:02:22,241 : INFO : test_Amazon : click on the search icon
+2022-11-25 14:02:22,883 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-25 14:02:26,425 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-25 14:02:26,767 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-25 14:02:26,875 : INFO : test_Amazon : select window 10 home
+2022-11-25 14:19:36,317 : INFO : test_Amazon : A debug statement is executed
+2022-11-25 14:19:36,318 : WARNING : test_Amazon : A debug statement is executed
+2022-11-25 14:19:36,318 : ERROR : test_Amazon : A debug statement is executed
+2022-11-25 14:19:36,318 : CRITICAL : test_Amazon : A debug statement is executed
+2022-11-25 14:19:36,396 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-25 14:19:36,579 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-25 14:19:39,525 : INFO : test_Amazon : click on the search icon
+2022-11-25 14:19:40,036 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-25 14:19:43,959 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-25 14:19:44,175 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-25 14:19:44,268 : INFO : test_Amazon : select window 10 home
+2022-11-25 17:05:16,908 : INFO : test_Amazon : A debug statement is executed
+2022-11-25 17:05:16,908 : WARNING : test_Amazon : A debug statement is executed
+2022-11-25 17:05:16,908 : ERROR : test_Amazon : A debug statement is executed
+2022-11-25 17:05:16,908 : CRITICAL : test_Amazon : A debug statement is executed
+2022-11-25 17:05:17,578 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-25 17:05:18,852 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-25 17:05:26,302 : INFO : test_Amazon : click on the search icon
+2022-11-25 17:05:27,964 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-25 17:05:37,657 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-25 17:05:37,993 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-25 17:05:38,663 : INFO : test_Amazon : select window 10 home
+2022-11-25 17:28:20,923 : INFO : test_Amazon : A debug statement is executed
+2022-11-25 17:28:20,923 : WARNING : test_Amazon : A debug statement is executed
+2022-11-25 17:28:20,927 : ERROR : test_Amazon : A debug statement is executed
+2022-11-25 17:28:20,927 : CRITICAL : test_Amazon : A debug statement is executed
+2022-11-25 17:28:21,063 : INFO : test_Amazon : Laptop isdell laptops
+2022-11-25 17:28:21,903 : INFO : test_Amazon : sending the dell laptops text in the search bar
+2022-11-25 17:28:27,154 : INFO : test_Amazon : click on the search icon
+2022-11-25 17:28:27,976 : INFO : test_Amazon : Laptop should be delivered next day
+2022-11-25 17:28:33,561 : INFO : test_Amazon : select the range 40000 to 50000
+2022-11-25 17:28:35,303 : INFO : test_Amazon : CPU manufacturer should be intel
+2022-11-25 17:28:35,513 : INFO : test_Amazon : select window 10 home
